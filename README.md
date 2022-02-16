@@ -1,1 +1,0 @@
-# svelte-cloudflare-pages-demo
